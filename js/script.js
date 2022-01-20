@@ -58,35 +58,4 @@ function testCardType() {
    console.log(testCardType());
 
 
-// console.log(multiplyEveryOtherNumber);
-
-//let testingCreditCardType = function () {
-
-
-
-//}
-//testingCreditCardType()
-/*const creditCardNumber = [1, 5];{}
-
-const multiplyEveryOtherNumber = creditCardNumber.map(function (number, index) {
-    if (index % 2 != 0) {
-      if (number * 2 > 9) {
-      console.log(index);
-      console.log(number);
-        let tooManyDigits = [];
-        let numberMultiplied = number * 2;
-        console.log(numberMultiplied.toString());
-        tooManyDigits = numberMultiplied.toString().split("");
-        console.log(tooManyDigits);
-        number = tooManyDigits[0] + tooManyDigits[1];
-        return number;
-        console.log(tooManyDigits);
-      } else {
-      return number * 2;
-      }
-    } else {
-      return number;
-    }
-})
-console.log(multiplyEveryOtherNumber);*/
 
